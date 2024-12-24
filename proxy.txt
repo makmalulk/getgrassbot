@@ -18,3 +18,4 @@ http://8adsgcxu2lh6dok-country-de-state-bayern-session-rw316bo2k3-lifetime-15:d8
 http://8adsgcxu2lh6dok-country-de-state-bayern-session-36dottcmxm-lifetime-15:d84dzbywnglx74j@rp.proxyscrape.com:6060
 http://8adsgcxu2lh6dok-country-de-state-bayern-session-v2ziq2eqh3-lifetime-15:d84dzbywnglx74j@rp.proxyscrape.com:6060
 http://8adsgcxu2lh6dok-country-de-state-bayern-session-tnozt0vh72-lifetime-15:d84dzbywnglx74j@rp.proxyscrape.com:6060
+ONETIME_PROXY = 20
